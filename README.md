@@ -79,11 +79,11 @@ It demonstrates a complete ML pipeline:
 ## ⚙️ Project Structure
 
 ```
-movie-recommender-system/
+movie-recommendation-system/
 │
 ├── app.py                # Streamlit application
-├── movie_dict.pkl           # Preprocessed movie dataset
-├── requirements.txt     # Dependencies
+├── movie_dict.pkl        # Preprocessed movie dataset
+├── requirements.txt      # Dependencies
 ├── .gitignore
 └── README.md
 ```
@@ -107,8 +107,8 @@ Instead:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
+git clone https://github.com/your-username/movie-recommendation-system.git
+cd movie-recommendation-system
 ```
 
 ### 2. Install dependencies
