@@ -82,7 +82,7 @@ It demonstrates a complete ML pipeline:
 movie-recommender-system/
 │
 ├── app.py                # Streamlit application
-├── movies.pkl           # Preprocessed movie dataset
+├── movie_dict.pkl           # Preprocessed movie dataset
 ├── requirements.txt     # Dependencies
 ├── .gitignore
 └── README.md
